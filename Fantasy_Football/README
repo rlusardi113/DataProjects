@@ -1,1 +1,2 @@
 Simple script to scrape fantasy football data from PFREF with some basic data analysis/cleaning and Dash.Plotly User Interface to visualize data
+Will need Dash.Plotly to run the GUI. Note, it typically works best in Spyder or Pycharm, not VSCODE
